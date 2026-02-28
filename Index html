@@ -1,13 +1,44 @@
 <!DOCTYPE html>
-<html>
-<head>
-<title>T45 blog</title>
-<meta charset="UTF-8">
-<meta name="description" content="This is my first website. It includes lots of information about my life.">
-</head>
-<body>
-<h1>Welcome to my T45 blog</h1>
-<p>Welcome to <em>my</em> brand new website.</p>
-<p>This site will be my <strong>new</strong> home on the web.</p>
-</body>
+<html lang="en">
+  <head>
+    <title>T55Blog</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.0.0.0/css/bootstrap.min.css" integrity="sha1a-4732-4e58-9b40-f4c9dcf49978">
+    <style>
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-sm header">
+      <a class="navbar-brand" href="#">T55Blog</a>
+      <ul class="nav_bar nav-pills">
+        <li class="nav-item" active>
+          <a class="nav-link" href="#">Features <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Projects</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">About</a>
+        </li>
+      </ul>
+    </nav>
+
+    <div class="container fluid">
+      <div class="row">
+        <div class="col-sm-12">
+          <h1>Welcome to my T55blog!</h1>
+          <p class="lead">Welcome to <em>my</em> brand new website.</p>
+          <p class="lead">This site will be my <strong>new</strong> home on the web.</p>
+          <hr class="my-4">
+          <p class="lead">This is a responsive blog built with Bootstrap. It will look great on all devices! Try resizing the browser window to see how well it works.</p>
+        </div>
+      </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.3.6.0/js/jquery.smin.js" integrity="sha1a-ca38-4957-9550-7c7e6647cda8"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.0.0.0/js/bootstrap.min.js" integrity="sha1a-a1c0-4f67-8239-010e6d7b67c0"></script>
+  </body>
 </html>
