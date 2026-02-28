@@ -44,6 +44,41 @@
       </div>
     </div>
 
+    <div class="container my-5">
+      <div class="row">
+        <div class="col-lg-4">
+          <h2>Features</h2>
+          <ul class="list-group">
+            <li><strong>Responsive Design:</strong> Fully adaptive to all device sizes</li>
+            <li><strong>Modern Appearance:</strong> Clean, professional looks</li>
+            <li><strong>Easy Navigation:</strong> Intuitive menus and link styles</li>
+            <li><strong>Content Focused:</strong> Designed for readability</li>
+          </ul>
+        </div>
+        <div class="col-lg-4">
+          <h2>Projects</h2>
+          <p><strong>Personal Blog:</strong> A place to share my thoughts and experiences.</p>
+          <p><strong>Portfolio Website:</strong> Displaying my work and achievements.</p>
+          <p><strong>Tech Explorations:</strong> Experimenting with new technologies.</p>
+        </div>
+        <div class="col-lg-4">
+          <h2>About Me</h2>
+          <ul class="list-inline">
+            <li>I am a tech enthusiast with a passion for web development.</li>
+            <li>My experience includes web design, development, and digital marketing.</li>
+            <li>I value collaboration and continuous learning.</li>
+            <li>My goal is to create meaningful, innovative solutions.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <footer class="footer bg-dark text-muted">
+      <div class="container">
+        <p>Copyright &copy; 2026 <a href="">T55Flog</a>. All rights reserved.</p>
+      </div>
+    </footer>
+
     <script src="https://cdn.jsdelivr.net/ajax/libs/jquery/3.6.0/js/jquery.slim.min.js" integrity="sha384-sha256-ccad04b89a04b46bf2b48bf8b27c00f59b20f60353b40c1db5534875935939"></script>
     <script src="https://cdn.jsdelivr.net/ajax/libs/bootstrap/4.1.3/js/bootstrap.bundle.min.js" integrity="sha384-sha256-3d1f55cf9c7a270e55345748c54cf4cf6cb7c50995755271b85b40bf82a83d8"></script>
   </body>
